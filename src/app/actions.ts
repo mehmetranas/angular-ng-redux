@@ -1,5 +1,4 @@
-
-export const ADD_TODO = 'ADD_TODO'; 
-export const TOGGLE_TODO = 'TOGGLE_TODO'; 
-export const REMOVE_TODO = 'REMOVE_TODO'; 
-export const CLEAR_TODOS = 'CLEAR_TODOS'; 
+export const ADD = 'ADD';
+export const TOGGLE = 'TOGGLE';
+export const REMOVE = 'REMOVE';
+export const CLEAR_ALL = 'CLEAR_ALL';
